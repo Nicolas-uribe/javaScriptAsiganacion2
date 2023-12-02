@@ -1,0 +1,33 @@
+header {
+    text-align: center;
+}
+h2 {
+   text-align: center;
+}
+body{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 25%;
+    font-family: Arial, sans-serif;
+}
+main{
+    text-align: left;
+}
+.cabecera-ejercicios{
+    display: flex;
+    align-items: center;
+}
+h4, button{
+    margin-right: 10px;
+}
+p{
+    text-align: justify;
+}
+.img {
+    transition: transform 0.3s; 
+}
+.img:hover {
+    transform: scale(2); 
+}
