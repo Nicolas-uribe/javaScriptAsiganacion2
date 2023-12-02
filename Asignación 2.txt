@@ -1,3 +1,8 @@
 buenas noches profesor, anexo el link para el repo en GitHub
 https://github.com/Nicolas-uribe/javaScriptAsiganacion2.git
 
+Profesor intente realizar la asiganación por medio de modulos pero me aparecian los siguientes errores y no pude solucionarlo. le agradeceria si tiene algun consejo para corregir esos errores :
+
+
+GET http://127.0.0.1:5500/script/modulo
+Se bloqueó la carga de un módulo de “http://127.0.0.1:5500/script/modulo” debido a un tipo MIME no permitido (“text/html”).
